@@ -1,1 +1,3 @@
-# Valera-tasks-bot
+# Valera Tasks Bot
+
+Telegram-бот для личного списка задач.
